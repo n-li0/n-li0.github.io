@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a ph.D candidate from Tongji University[School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am very fortunate to be advised by Prof. Junfeng Yin of Kay Laboratory of Intelligent Computing and Applications, Ministry of Education. 
+I'm a ph.D candidate from Tongji University. I am very fortunate to be advised by Prof. Junfeng Yin of Kay Laboratory of Intelligent Computing and Applications, Ministry of Education. 
 
 You can find my CV here: [NanLi's Curriculum Vitae](../assets/CV_nli_en.pdf).
 
@@ -31,7 +31,6 @@ My research interest includes Numerical Linear Algebra, Complementarity Problems
 # 📝 Publications 
 - [The randomized circumcentered-reflection iteration method for solving consistent
 linear equations](https://assets-eu.researchsquare.com/files/rs-1839532/v1_covered.pdf?c=1658510312), Nan Li, Jun-Feng Yin, (Preprint), 2022.
-
 - [Restarted randomized surrounding methods for solving large linear equations](https://www.sciencedirect.com/science/article/abs/pii/S0893965922002178), Jun-Feng Yin, Nan Li, Ning Zheng, Applied Mathematics Letters 133 (2022): 108290.
 - [Modified relaxation two-sweep modulus-based matrix splitting iteration method for solving a class of implicit complementarity problems](https://www.sciencedirect.com/science/article/abs/pii/S0377042722001650), Nan Li, Jian Ding, Jun-Feng Yin, Journal of Computational and Applied Mathematics 413 (2022): 114370.
 
