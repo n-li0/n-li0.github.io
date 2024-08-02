@@ -19,31 +19,20 @@ redirect_from:
 
 I'm a ph.D candidate from Tongji University[School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am very fortunate to be advised by Prof. Junfeng Yin of Kay Laboratory of Intelligent Computing and Applications, Ministry of Education. 
 
-You can find my CV here: [nli's Curriculum Vitae](../assets/LN_Curriculum_Vitae.pdf)./[Email](mailto:sunshinekieili@tongji.edu.cn)
+You can find my CV here: [NanLi's Curriculum Vitae](../assets/CV_nli_en.pdf).
 
-My research interest includes Numerical Linear Algebra, Complementarity Problems, Randomized Algorithms and Option Pricing. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Numerical Linear Algebra, Complementarity Problems, Randomized Algorithms and Option Pricing. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2023.08*: &nbsp;🎉🎉 Talk:Iterative projection methods for solving cone-constrained eigenvalue complementarity problems, on 10th International Congress on Industrial and AppliedMathematics (ICIAM), Tokyo, Japan. 
-
+- *2022.09*: &nbsp;👩‍💻 Zhang's Lab of Nagoya University as a research student.
+- 
 # 📝 Publications 
+- [The randomized circumcentered-reflection iteration method for solving consistent
+linear equations](https://assets-eu.researchsquare.com/files/rs-1839532/v1_covered.pdf?c=1658510312), Nan Li, Jun-Feng Yin, (Preprint), 2022.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Restarted randomized surrounding methods for solving large linear equations](https://www.sciencedirect.com/science/article/abs/pii/S0893965922002178), Jun-Feng Yin 1, Nan Li, Ning Zheng, Applied Mathematics Letters 133 (2022): 108290.
+- [Restarted randomized surrounding methods for solving large linear equations](https://www.sciencedirect.com/science/article/abs/pii/S0893965922002178), Jun-Feng Yin, Nan Li, Ning Zheng, Applied Mathematics Letters 133 (2022): 108290.
 - [Modified relaxation two-sweep modulus-based matrix splitting iteration method for solving a class of implicit complementarity problems](https://www.sciencedirect.com/science/article/abs/pii/S0377042722001650), Nan Li, Jian Ding, Jun-Feng Yin, Journal of Computational and Applied Mathematics 413 (2022): 114370.
 
 
@@ -56,8 +45,4 @@ My research interest includes Numerical Linear Algebra, Complementarity Problems
 - *2015.09 - 2019.06*, B.Sc. in Information and Computational Sciences, School of Mathematical Sciences, Ocean University of China, China.
 
 # 💬 Miscellaneous
-#- *2023.08*, 10th International Congress on Industrial and AppliedMathematics (ICIAM), Tokyo, Japan.
-              Iterative projection methods for solving cone-constrained eigenvalue complementarity #problems \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2023.07 - 2023.08*, [Lorem](https://github.com/), Japan.
+Hobby: Writing and Blogging, Photography, Drawing, Reading...
